@@ -6,7 +6,7 @@ here are some screenshots
 ![screenshot-1](./images/screenshot-1.png)
 ![screenshot-2](./images/screenshot-2.png)
 
-this is the setup i use on windows to larp linux :smirk:
+this is the setup i use on windows to larp linux :smirk :
 
 ## yasb
 
@@ -35,6 +35,11 @@ this is like spotlight in macos but on steroids xD u can search for any file and
 ## shareX
 
 this is a screenshot utility app which has more functions to it than normal windows screenshot which is nice
+
+## nilesoft shell
+
+if you want the context menu (the menu when u right click) to look different, the program called nilesoft shell lets us customize that
+![context menu](./images/context-menu.png)
 
 ## wallpapers
 
